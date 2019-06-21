@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-06-19T19:22:12Z" name="Surefire suite" finished-at="2019-06-19T19:22:37Z" duration-ms="24849">
+    <groups>
+    </groups>
+    <test started-at="2019-06-19T19:22:12Z" name="Surefire test" finished-at="2019-06-19T19:22:37Z" duration-ms="24849">
+      <class name="com.inetbanking.qa.TestCases.LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.inetbanking.qa.TestCases.LoginPageTest@20d28811]" started-at="2019-06-19T19:22:13Z" name="setUp" finished-at="2019-06-19T19:22:33Z" duration-ms="20288" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="IsLogoPresentTest()[pri:1, instance:com.inetbanking.qa.TestCases.LoginPageTest@20d28811]" started-at="2019-06-19T19:22:33Z" name="IsLogoPresentTest" finished-at="2019-06-19T19:22:33Z" duration-ms="87" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IsLogoPresentTest -->
+        <test-method signature="IsSelLinkPresentTest()[pri:2, instance:com.inetbanking.qa.TestCases.LoginPageTest@20d28811]" started-at="2019-06-19T19:22:33Z" name="IsSelLinkPresentTest" finished-at="2019-06-19T19:22:33Z" duration-ms="145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IsSelLinkPresentTest -->
+        <test-method signature="LoginTest()[pri:3, instance:com.inetbanking.qa.TestCases.LoginPageTest@20d28811]" started-at="2019-06-19T19:22:33Z" name="LoginTest" finished-at="2019-06-19T19:22:35Z" duration-ms="2139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.inetbanking.qa.TestCases.LoginPageTest@20d28811]" started-at="2019-06-19T19:22:35Z" name="tearDown" finished-at="2019-06-19T19:22:37Z" duration-ms="1894" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.inetbanking.qa.TestCases.LoginPageTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

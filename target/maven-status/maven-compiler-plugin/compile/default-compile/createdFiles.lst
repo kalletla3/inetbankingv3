@@ -1,0 +1,5 @@
+com\inetbanking\qa\Base\BaseClass.class
+com\inetbanking\qa\Pages\HomePage.class
+com\inetbanking\qa\Util\XLUtils.class
+com\inetbanking\qa\Pages\LoginPage.class
+com\inetbanking\qa\Util\Reporting.class

@@ -1,0 +1,741 @@
+2019-06-11 23:30:21,250 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-11 23:30:21,402 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-11 23:30:21,406 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-11 23:30:21,457 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-11 23:30:21,457 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-11 23:30:22,241 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-11 23:30:22,242 -com.inetbanking.qa.Base.BaseClass -INFO -Login Success
+2019-06-11 23:30:23,007 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-11 23:30:23,011 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-12 23:14:25,829 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-12 23:14:26,976 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-12 23:14:26,981 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-12 23:14:27,059 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-12 23:14:27,060 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-12 23:14:27,961 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-12 23:14:27,962 -com.inetbanking.qa.Base.BaseClass -INFO -Login Success
+2019-06-12 23:14:28,830 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-12 23:14:28,832 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-12 23:17:01,515 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-12 23:17:01,596 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-12 23:17:01,598 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-12 23:17:01,683 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-12 23:17:01,683 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-12 23:17:02,357 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-12 23:17:03,172 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-12 23:17:03,175 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-12 23:29:33,643 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-12 23:29:35,338 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-12 23:29:35,341 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-12 23:29:35,420 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-12 23:29:35,421 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-12 23:29:36,056 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-12 23:29:39,699 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-12 23:29:39,701 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-12 23:31:11,730 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-12 23:31:12,869 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-12 23:31:12,877 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-12 23:31:13,054 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-12 23:31:13,057 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-12 23:31:14,957 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-12 23:31:20,965 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-12 23:31:20,966 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-12 23:34:43,196 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-12 23:34:43,360 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-12 23:34:43,362 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-12 23:34:43,418 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-12 23:34:43,419 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-12 23:34:44,101 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-12 23:34:49,047 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-12 23:34:49,050 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-12 23:37:44,864 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-12 23:37:46,349 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-12 23:37:46,353 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-12 23:37:46,424 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-12 23:37:46,424 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-12 23:37:47,203 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-12 23:37:49,889 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-12 23:37:49,890 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-12 23:46:08,343 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-12 23:46:08,478 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-12 23:46:08,481 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-12 23:46:08,534 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-12 23:46:08,535 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-12 23:46:09,583 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-12 23:46:14,572 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-12 23:46:14,575 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-12 23:54:34,541 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-12 23:54:34,653 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-12 23:54:34,656 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-12 23:54:34,716 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-12 23:54:34,717 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-12 23:54:35,427 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-12 23:54:36,312 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-12 23:54:36,315 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-12 23:56:09,783 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-12 23:56:10,234 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-12 23:56:10,243 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-12 23:56:10,320 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-12 23:56:10,321 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-12 23:56:11,070 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-12 23:56:11,072 -com.inetbanking.qa.Base.BaseClass -INFO -Login Success
+2019-06-12 23:56:11,845 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-12 23:56:11,847 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-12 23:58:15,528 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-12 23:58:15,631 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-12 23:58:15,633 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-12 23:58:15,681 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-12 23:58:15,682 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-12 23:58:16,389 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-12 23:58:16,390 -com.inetbanking.qa.Base.BaseClass -INFO -Login Success
+2019-06-12 23:58:17,241 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-12 23:58:17,243 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-12 23:59:43,063 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-12 23:59:43,157 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-12 23:59:43,160 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-12 23:59:43,196 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-12 23:59:43,196 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-12 23:59:43,803 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-12 23:59:43,804 -com.inetbanking.qa.Base.BaseClass -INFO -Login Success
+2019-06-12 23:59:46,278 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-12 23:59:46,282 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-13 00:00:27,001 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-13 00:00:27,098 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-13 00:00:27,100 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-13 00:00:27,159 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-13 00:00:27,160 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-13 00:00:27,928 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-13 00:00:27,929 -com.inetbanking.qa.Base.BaseClass -INFO -Login Success
+2019-06-13 00:00:30,141 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-13 00:00:30,143 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-13 00:01:29,651 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-13 00:01:29,778 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-13 00:01:29,781 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-13 00:01:29,825 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-13 00:01:29,826 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-13 00:01:30,531 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-13 00:01:30,532 -com.inetbanking.qa.Base.BaseClass -INFO -Login Success
+2019-06-13 00:01:31,347 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-13 00:01:31,350 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-13 00:02:41,500 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-13 00:02:43,545 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-13 00:02:43,548 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-13 00:02:43,640 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-13 00:02:43,641 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-13 00:02:44,359 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-13 00:02:44,360 -com.inetbanking.qa.Base.BaseClass -INFO -Login Success
+2019-06-13 00:02:45,323 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-13 00:02:45,324 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-13 00:03:13,836 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-13 00:03:13,950 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-13 00:03:13,954 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-13 00:03:14,012 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-13 00:03:14,012 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-13 00:03:14,821 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-13 00:03:14,822 -com.inetbanking.qa.Base.BaseClass -INFO -Login Success
+2019-06-13 00:03:20,604 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-13 00:03:20,605 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-13 11:28:39,828 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-13 11:28:42,911 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-13 11:28:42,938 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-13 11:28:43,737 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-13 11:28:43,738 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-13 11:28:45,081 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-13 11:28:45,082 -com.inetbanking.qa.Base.BaseClass -INFO -Login Success
+2019-06-13 11:28:50,167 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-13 11:28:50,170 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-13 11:30:28,077 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-13 11:30:28,168 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-13 11:30:28,171 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-13 11:30:28,236 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-13 11:30:28,237 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-13 11:30:28,928 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-13 11:30:28,929 -com.inetbanking.qa.Base.BaseClass -INFO -Login Success
+2019-06-13 11:30:31,852 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-13 11:30:31,854 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-13 11:32:26,168 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-13 11:32:26,449 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-13 11:32:26,452 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-13 11:32:26,512 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-13 11:32:26,512 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-13 11:32:27,269 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-13 11:32:27,270 -com.inetbanking.qa.Base.BaseClass -INFO -Login Success
+2019-06-13 11:32:30,128 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-13 11:32:30,130 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-13 11:33:03,398 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-13 11:33:03,495 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-13 11:33:03,497 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-13 11:33:03,538 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-13 11:33:03,539 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-13 11:33:04,292 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-13 11:33:04,292 -com.inetbanking.qa.Base.BaseClass -INFO -Login Success
+2019-06-13 11:33:08,390 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-13 11:33:08,392 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-13 11:37:03,318 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-13 11:37:03,408 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-13 11:37:03,409 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-13 11:37:03,447 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-13 11:37:03,448 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-13 11:37:04,103 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-13 11:37:04,104 -com.inetbanking.qa.Base.BaseClass -INFO -Login Success
+2019-06-13 11:37:06,105 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for title validation
+2019-06-13 11:37:06,962 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-13 11:37:06,963 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-13 11:40:39,179 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-13 11:40:39,266 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-13 11:40:39,269 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-13 11:40:39,325 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-13 11:40:39,325 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-13 11:40:40,115 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-13 11:40:42,927 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-13 11:40:42,931 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-13 12:00:37,909 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-13 12:00:38,000 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-13 12:00:38,003 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-13 12:00:38,069 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-13 12:00:38,070 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-13 12:00:38,683 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-13 12:00:41,482 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-13 12:00:41,486 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-13 12:16:31,689 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-13 12:16:31,769 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-13 12:16:31,772 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-13 12:16:31,817 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-13 12:16:31,817 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-13 12:16:32,448 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-13 12:16:36,985 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-13 12:16:36,988 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-13 12:19:29,658 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-13 12:19:29,760 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-13 12:19:29,763 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-13 12:19:29,807 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-13 12:19:29,808 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-13 12:19:30,474 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-13 12:19:32,491 -com.inetbanking.qa.Base.BaseClass -INFO -Invalid credentials and swiching to default page
+2019-06-13 12:19:34,548 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-13 12:19:34,550 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-13 12:20:24,792 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-13 12:20:25,118 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-13 12:20:25,120 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-13 12:20:25,163 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-13 12:20:25,164 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-13 12:20:25,908 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-13 12:20:27,930 -com.inetbanking.qa.Base.BaseClass -INFO -Invalid credentials and swiching to default page
+2019-06-13 12:20:29,787 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-13 12:20:29,787 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-13 12:21:16,733 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-13 12:21:16,823 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-13 12:21:16,826 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-13 12:21:16,868 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-13 12:21:16,869 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-13 12:21:17,604 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-13 12:21:19,635 -com.inetbanking.qa.Base.BaseClass -INFO -Invalid credentials and swiching to default page
+2019-06-13 12:21:21,606 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-13 12:21:21,607 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-13 12:25:59,014 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-13 12:25:59,110 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-13 12:25:59,114 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-13 12:25:59,168 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-13 12:25:59,169 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-13 12:25:59,830 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-13 12:26:01,856 -com.inetbanking.qa.Base.BaseClass -INFO -Invalid credentials and swiching to default page
+2019-06-13 12:26:03,895 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-13 12:26:03,898 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-13 12:26:47,596 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-13 12:26:47,687 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-13 12:26:47,689 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-13 12:26:47,739 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-13 12:26:47,739 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-13 12:26:48,382 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-13 12:26:50,404 -com.inetbanking.qa.Base.BaseClass -INFO -Invalid credentials and swiching to default page
+2019-06-13 12:26:52,347 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-13 12:26:52,349 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-13 12:28:58,068 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-13 12:29:00,414 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-13 12:29:00,416 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-13 12:29:00,765 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-13 12:29:00,765 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-13 12:29:01,447 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-13 12:29:04,500 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-13 12:29:04,501 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-13 12:29:23,680 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-13 12:29:23,765 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-13 12:29:23,768 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-13 12:29:23,818 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-13 12:29:23,819 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-13 12:29:24,489 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-13 12:29:27,246 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-13 12:29:27,249 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-13 12:30:42,287 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-13 12:30:42,371 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-13 12:30:42,373 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-13 12:30:42,419 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-13 12:30:42,419 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-13 12:30:43,145 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-13 12:30:45,887 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-13 12:30:45,890 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-13 12:31:28,778 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-13 12:31:28,857 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-13 12:31:28,860 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-13 12:31:28,904 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-13 12:31:28,905 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-13 12:31:29,538 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-13 12:31:32,325 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-13 12:31:32,329 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-13 12:34:02,622 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-13 12:34:02,702 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-13 12:34:02,703 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-13 12:34:02,746 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-13 12:34:02,747 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-13 12:34:03,448 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-13 12:34:05,468 -com.inetbanking.qa.Base.BaseClass -INFO -Invalid credentials and swiching to default page
+2019-06-13 12:34:07,722 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-13 12:34:07,723 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-13 12:42:18,043 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-13 12:42:18,135 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-13 12:42:18,138 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-13 12:42:18,179 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-13 12:42:18,179 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-13 12:42:18,753 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-13 12:42:18,774 -com.inetbanking.qa.Base.BaseClass -INFO -Invalid credentials and swiching to default page
+2019-06-13 12:42:20,692 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-13 12:42:20,693 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-13 12:46:20,790 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-13 12:46:20,871 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-13 12:46:20,874 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-13 12:46:20,916 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-13 12:46:20,917 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-13 12:46:21,641 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-13 12:46:21,660 -com.inetbanking.qa.Base.BaseClass -INFO -Invalid credentials and swiching to default page
+2019-06-13 12:46:23,535 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-13 12:46:23,537 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-13 12:50:07,817 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-13 12:50:07,907 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-13 12:50:07,910 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-13 12:50:07,952 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-13 12:50:07,952 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-13 12:50:08,708 -com.inetbanking.qa.Base.BaseClass -INFO -Invalid credentials and swiching to default page
+2019-06-13 12:50:10,684 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-13 12:50:10,686 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-13 12:51:43,904 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-13 12:51:44,841 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-13 12:51:44,843 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-13 12:51:45,258 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-13 12:51:45,258 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-13 12:51:49,690 -com.inetbanking.qa.Base.BaseClass -INFO -Invalid credentials and swiching to default page
+2019-06-13 12:51:52,238 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-13 12:51:52,239 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-13 12:53:44,564 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-13 12:53:44,777 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-13 12:53:44,780 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-13 12:53:44,835 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-13 12:53:44,836 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-13 12:53:45,488 -com.inetbanking.qa.Base.BaseClass -INFO -Invalid credentials and swiching to default page
+2019-06-13 12:53:47,236 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-13 12:53:47,237 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-13 13:17:38,263 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-13 13:17:38,562 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-13 13:17:38,566 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-13 13:17:38,688 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-13 13:17:38,690 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-13 13:17:39,852 -com.inetbanking.qa.Base.BaseClass -INFO -Invalid credentials and swiching to default page
+2019-06-13 13:17:42,193 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-13 13:17:42,193 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-13 13:20:45,739 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-13 13:20:45,896 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-13 13:20:45,899 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-13 13:20:46,150 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-13 13:20:46,151 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-13 13:20:51,631 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-13 13:20:51,631 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-13 13:21:42,172 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-13 13:21:42,388 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-13 13:21:42,390 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-13 13:21:42,448 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-13 13:21:42,449 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-13 13:21:44,074 -com.inetbanking.qa.Base.BaseClass -INFO -Valid credentials
+2019-06-13 13:21:45,085 -com.inetbanking.qa.Base.BaseClass -INFO -Clicking on logout link
+2019-06-13 13:21:47,529 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-13 13:21:47,530 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-13 13:22:42,374 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-13 13:22:42,768 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-13 13:22:42,771 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-13 13:22:42,816 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-13 13:22:42,816 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-13 13:22:44,197 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-13 13:22:44,257 -com.inetbanking.qa.Base.BaseClass -INFO -Valid credentials
+2019-06-13 13:22:44,907 -com.inetbanking.qa.Base.BaseClass -INFO -Clicking on logout link
+2019-06-13 13:22:47,708 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-13 13:22:47,709 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-13 13:26:15,881 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-13 13:26:16,143 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-13 13:26:16,146 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-13 13:26:16,277 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-13 13:26:16,278 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-13 13:26:17,691 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-13 13:26:20,514 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-13 13:26:20,516 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-13 13:42:08,981 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-13 13:42:09,159 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-13 13:42:09,163 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-13 13:42:09,210 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-13 13:42:09,211 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-13 13:42:12,366 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-13 13:42:14,798 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-13 13:42:14,800 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-13 13:51:32,508 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-13 13:51:32,680 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-13 13:51:32,682 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-13 13:51:32,755 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-13 13:51:32,756 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-13 13:51:34,486 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-13 13:51:36,788 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-13 13:51:36,789 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-13 14:05:03,665 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-13 14:05:03,916 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-13 14:05:04,056 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-13 14:05:04,231 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-13 14:05:04,231 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-13 14:05:06,192 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-13 14:05:09,953 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-13 14:05:09,954 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-13 14:14:01,754 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-13 14:14:02,254 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-13 14:14:02,258 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-13 14:14:02,335 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-13 14:14:02,336 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-13 14:14:03,925 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-13 14:14:06,835 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-13 14:14:06,836 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-13 14:15:16,165 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-13 14:15:16,347 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-13 14:15:16,350 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-13 14:15:16,426 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-13 14:15:16,428 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-13 14:15:18,168 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-13 14:15:21,044 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-13 14:15:21,045 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-13 14:22:26,884 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-13 14:22:27,179 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-13 14:22:27,183 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-13 14:22:27,254 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-13 14:22:27,255 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-13 14:22:28,735 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-13 14:22:31,304 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-13 14:22:31,305 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-13 14:31:23,904 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-13 14:31:24,309 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-13 14:31:24,318 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-13 14:31:24,400 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-13 14:31:24,401 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-13 14:31:26,048 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-13 14:31:29,202 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-13 14:31:29,202 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-13 14:48:53,863 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-13 14:48:54,129 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-13 14:48:54,132 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-13 14:48:54,401 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-13 14:48:54,401 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-13 14:48:55,870 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-13 14:48:58,371 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-13 14:48:58,372 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-13 14:54:46,937 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-13 14:54:47,097 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-13 14:54:47,100 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-13 14:54:47,463 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-13 14:54:47,464 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-13 14:54:49,131 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-13 14:54:52,408 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-13 14:54:52,409 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-13 15:30:44,084 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-13 15:30:44,260 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-13 15:30:44,262 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-13 15:30:44,335 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-13 15:30:44,336 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-13 15:30:45,777 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-13 15:30:49,258 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-13 15:30:49,262 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-15 23:41:02,674 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-15 23:41:03,748 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-15 23:41:03,754 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-15 23:41:05,060 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-15 23:41:05,063 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-15 23:41:12,492 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-15 23:41:16,210 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-15 23:41:16,212 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-17 13:55:13,737 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-17 13:55:14,511 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-17 13:55:14,514 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-17 13:55:15,023 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-17 13:55:15,024 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-17 13:55:19,818 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-17 13:55:21,997 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-17 13:55:21,998 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-17 13:56:12,796 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-17 13:56:13,329 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-17 13:56:13,332 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-17 13:56:13,392 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-17 13:56:13,393 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-17 13:56:14,700 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-17 13:56:17,357 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-17 13:56:17,358 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-17 14:01:42,872 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-17 14:01:43,049 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-17 14:01:43,052 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-17 14:01:43,100 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-17 14:01:43,100 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-17 14:01:44,626 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-17 14:01:47,551 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-17 14:01:47,552 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-17 14:07:48,669 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-17 14:07:48,833 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-17 14:07:48,837 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-17 14:07:48,888 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-17 14:07:48,889 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-17 14:07:50,295 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-17 14:07:50,295 -com.inetbanking.qa.Base.BaseClass -INFO -Login Success!!
+2019-06-17 14:07:52,563 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-17 14:07:52,563 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-17 14:08:52,792 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-17 14:08:52,990 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-17 14:08:52,992 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-17 14:08:53,067 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-17 14:08:53,068 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-17 14:08:54,658 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-17 14:08:54,659 -com.inetbanking.qa.Base.BaseClass -INFO -Login Success!!
+2019-06-17 14:08:58,022 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-17 14:08:58,023 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-17 18:09:53,435 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-17 18:09:55,525 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-17 18:09:55,562 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-17 18:09:56,363 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-17 18:09:56,365 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-17 18:10:03,908 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-17 18:10:03,909 -com.inetbanking.qa.Base.BaseClass -INFO -Login Success!!
+2019-06-17 18:10:07,837 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-17 18:10:07,838 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-17 18:11:09,832 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-17 18:11:10,331 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-17 18:11:10,341 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-17 18:11:10,534 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-17 18:11:10,535 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-17 18:11:12,220 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-17 18:11:12,221 -com.inetbanking.qa.Base.BaseClass -INFO -Login Success!!
+2019-06-17 18:11:15,085 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-17 18:11:15,086 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-17 18:26:15,366 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-17 18:26:15,610 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-17 18:26:15,613 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-17 18:26:16,212 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-17 18:26:16,212 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-17 18:26:17,978 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-17 18:26:17,980 -com.inetbanking.qa.Base.BaseClass -INFO -Login Success!!
+2019-06-17 18:26:17,992 -com.inetbanking.qa.Base.BaseClass -WARN -Invalid assertion, Title dosen't match!!!
+2019-06-17 18:26:18,125 -com.inetbanking.qa.Base.BaseClass -INFO -Valid credentials
+2019-06-17 18:26:18,878 -com.inetbanking.qa.Base.BaseClass -INFO -Clicking on logout link
+2019-06-17 18:26:21,275 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-17 18:26:21,276 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-17 19:51:30,392 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-17 19:51:30,544 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-17 19:51:30,548 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-17 19:51:30,803 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-17 19:51:30,804 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-17 19:51:33,101 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-17 19:51:33,101 -com.inetbanking.qa.Base.BaseClass -INFO -Login Success!!
+2019-06-17 19:51:36,042 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-17 19:51:36,042 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-17 23:13:39,919 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-17 23:13:41,821 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-17 23:13:41,832 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-17 23:13:42,341 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-17 23:13:42,342 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-17 23:13:48,875 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-17 23:13:48,876 -com.inetbanking.qa.Base.BaseClass -INFO -Login Success!!
+2019-06-17 23:13:52,863 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-17 23:13:52,864 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-17 23:25:07,243 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-17 23:25:07,681 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-17 23:25:07,684 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-17 23:25:08,296 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-17 23:25:08,297 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-17 23:25:12,277 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-17 23:25:12,278 -com.inetbanking.qa.Base.BaseClass -INFO -Login Success!!
+2019-06-17 23:25:14,811 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-17 23:25:14,813 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-17 23:32:25,065 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-17 23:32:25,191 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-17 23:32:25,193 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-17 23:32:25,244 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-17 23:32:25,245 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-17 23:32:26,773 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-17 23:32:26,774 -com.inetbanking.qa.Base.BaseClass -INFO -Login Success!!
+2019-06-17 23:32:29,752 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-17 23:32:29,754 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-17 23:39:31,656 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-17 23:39:31,985 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-17 23:39:31,989 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-17 23:39:32,046 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-17 23:39:32,047 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-17 23:39:33,885 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-17 23:39:33,886 -com.inetbanking.qa.Base.BaseClass -INFO -Login Success!!
+2019-06-17 23:39:36,273 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-17 23:39:36,274 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-17 23:43:52,229 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-17 23:43:52,403 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-17 23:43:52,407 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-17 23:43:52,478 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-17 23:43:52,479 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-17 23:43:54,699 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-17 23:43:54,701 -com.inetbanking.qa.Base.BaseClass -INFO -Login Success!!
+2019-06-17 23:43:57,218 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-17 23:43:57,218 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-17 23:46:32,429 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-17 23:46:32,728 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-17 23:46:32,730 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-17 23:46:32,775 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-17 23:46:32,776 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-17 23:46:34,361 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-17 23:46:34,362 -com.inetbanking.qa.Base.BaseClass -INFO -Login Success!!
+2019-06-17 23:46:36,496 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-17 23:46:36,497 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-17 23:48:05,853 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-17 23:48:06,029 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-17 23:48:06,033 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-17 23:48:06,090 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-17 23:48:06,090 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-17 23:48:07,981 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-17 23:48:07,982 -com.inetbanking.qa.Base.BaseClass -INFO -Login Success!!
+2019-06-17 23:48:10,509 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-17 23:48:10,509 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-17 23:59:02,403 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-17 23:59:02,650 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-17 23:59:02,652 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-17 23:59:02,709 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-17 23:59:02,711 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-17 23:59:04,665 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-17 23:59:04,667 -com.inetbanking.qa.Base.BaseClass -INFO -Login Success!!
+2019-06-17 23:59:11,218 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-17 23:59:11,219 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-18 00:03:24,140 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-18 00:03:24,541 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-18 00:03:24,555 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-18 00:03:24,619 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-18 00:03:24,620 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-18 00:03:26,063 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-18 00:03:26,064 -com.inetbanking.qa.Base.BaseClass -INFO -Login Success!!
+2019-06-18 00:03:28,246 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-18 00:03:28,246 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-18 00:09:59,026 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-18 00:09:59,253 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-18 00:09:59,255 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-18 00:09:59,432 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-18 00:09:59,433 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-18 00:10:01,116 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-18 00:10:01,117 -com.inetbanking.qa.Base.BaseClass -INFO -Login Success!!
+2019-06-18 00:10:03,772 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-18 00:10:03,772 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-18 22:39:02,230 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-18 22:39:03,520 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-18 22:39:03,524 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-18 22:39:04,238 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-18 22:39:04,239 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-18 22:39:11,823 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-18 22:39:11,824 -com.inetbanking.qa.Base.BaseClass -INFO -Login Success!!
+2019-06-18 22:39:11,830 -com.inetbanking.qa.Base.BaseClass -WARN -Invalid assertion, Title dosen't match!!!
+2019-06-18 22:39:11,975 -com.inetbanking.qa.Base.BaseClass -INFO -Valid credentials
+2019-06-18 22:39:12,877 -com.inetbanking.qa.Base.BaseClass -INFO -Clicking on logout link
+2019-06-18 22:39:16,003 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-18 22:39:16,004 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-18 22:40:02,611 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-18 22:40:03,040 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-18 22:40:03,044 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-18 22:40:03,330 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-18 22:40:03,331 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-18 22:40:06,464 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-18 22:40:06,464 -com.inetbanking.qa.Base.BaseClass -INFO -Login Success!!
+2019-06-18 22:40:08,808 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-18 22:40:08,809 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-18 22:59:24,777 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-18 22:59:25,130 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-18 22:59:25,133 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-18 22:59:25,980 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-18 22:59:25,982 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-18 22:59:31,242 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-18 22:59:31,244 -com.inetbanking.qa.Base.BaseClass -INFO -Login Success!!
+2019-06-18 22:59:31,248 -com.inetbanking.qa.Base.BaseClass -WARN -Invalid assertion, Title dosen't match!!!
+2019-06-18 22:59:31,286 -com.inetbanking.qa.Base.BaseClass -INFO -Valid credentials
+2019-06-18 22:59:32,330 -com.inetbanking.qa.Base.BaseClass -INFO -Clicking on logout link
+2019-06-18 22:59:34,702 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-18 22:59:34,703 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-18 23:02:14,678 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-18 23:02:14,929 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-18 23:02:14,932 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-18 23:02:15,213 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-18 23:02:15,214 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-18 23:02:17,031 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-18 23:02:17,032 -com.inetbanking.qa.Base.BaseClass -INFO -Login Success!!
+2019-06-18 23:02:17,037 -com.inetbanking.qa.Base.BaseClass -WARN -Invalid assertion, Title dosen't match!!!
+2019-06-18 23:02:17,094 -com.inetbanking.qa.Base.BaseClass -INFO -Valid credentials
+2019-06-18 23:02:17,744 -com.inetbanking.qa.Base.BaseClass -INFO -Clicking on logout link
+2019-06-18 23:02:20,526 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-18 23:02:20,528 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-19 11:54:27,811 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-19 11:54:29,426 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-19 11:54:29,440 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-19 11:54:30,255 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-19 11:54:30,257 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-19 11:54:36,069 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-19 11:54:36,069 -com.inetbanking.qa.Base.BaseClass -INFO -Login Success!!
+2019-06-19 11:54:36,075 -com.inetbanking.qa.Base.BaseClass -WARN -Invalid assertion, Title dosen't match!!!
+2019-06-19 11:54:36,156 -com.inetbanking.qa.Base.BaseClass -INFO -Valid credentials
+2019-06-19 11:54:36,801 -com.inetbanking.qa.Base.BaseClass -INFO -Clicking on logout link
+2019-06-19 11:54:40,608 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-19 11:54:40,609 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-19 12:13:11,591 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-19 12:13:12,708 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-19 12:13:12,711 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-19 12:13:12,946 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-19 12:13:12,947 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-19 12:13:17,784 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-19 12:13:17,786 -com.inetbanking.qa.Base.BaseClass -INFO -Login Success!!
+2019-06-19 12:13:17,791 -com.inetbanking.qa.Base.BaseClass -WARN -Invalid assertion, Title dosen't match!!!
+2019-06-19 12:13:17,859 -com.inetbanking.qa.Base.BaseClass -INFO -Valid credentials
+2019-06-19 12:13:18,439 -com.inetbanking.qa.Base.BaseClass -INFO -Clicking on logout link
+2019-06-19 12:13:21,249 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-19 12:13:21,250 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-19 13:12:51,534 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-19 13:12:52,392 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-19 13:12:52,398 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-19 13:12:53,322 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-19 13:12:53,323 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-19 13:12:58,301 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-19 13:12:58,302 -com.inetbanking.qa.Base.BaseClass -INFO -Login Success!!
+2019-06-19 13:12:58,309 -com.inetbanking.qa.Base.BaseClass -WARN -Invalid assertion, Title dosen't match!!!
+2019-06-19 13:12:58,414 -com.inetbanking.qa.Base.BaseClass -INFO -Valid credentials
+2019-06-19 13:12:59,559 -com.inetbanking.qa.Base.BaseClass -INFO -Clicking on logout link
+2019-06-19 13:13:02,805 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-19 13:13:02,806 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-19 13:18:22,572 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-19 13:18:22,872 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-19 13:18:22,876 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-19 13:18:23,061 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-19 13:18:23,061 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-19 13:18:24,751 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-19 13:18:24,752 -com.inetbanking.qa.Base.BaseClass -INFO -Login Success!!
+2019-06-19 13:18:24,762 -com.inetbanking.qa.Base.BaseClass -WARN -Invalid assertion, Title dosen't match!!!
+2019-06-19 13:18:24,814 -com.inetbanking.qa.Base.BaseClass -INFO -Valid credentials
+2019-06-19 13:18:25,383 -com.inetbanking.qa.Base.BaseClass -INFO -Clicking on logout link
+2019-06-19 13:18:27,646 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-19 13:18:27,646 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
+2019-06-19 13:22:33,374 -com.inetbanking.qa.Base.BaseClass -INFO -Initializing the browser
+2019-06-19 13:22:33,519 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Logo
+2019-06-19 13:22:33,522 -com.inetbanking.qa.Base.BaseClass -INFO -Success
+2019-06-19 13:22:33,688 -com.inetbanking.qa.Base.BaseClass -INFO -Checking for the presence of Selenium Link
+2019-06-19 13:22:33,688 -com.inetbanking.qa.Base.BaseClass -INFO -The link is present
+2019-06-19 13:22:35,257 -com.inetbanking.qa.Base.BaseClass -INFO -Keying username, Password and checking for login functionality
+2019-06-19 13:22:35,258 -com.inetbanking.qa.Base.BaseClass -INFO -Login Success!!
+2019-06-19 13:22:35,264 -com.inetbanking.qa.Base.BaseClass -WARN -Invalid assertion, Title dosen't match!!!
+2019-06-19 13:22:35,297 -com.inetbanking.qa.Base.BaseClass -INFO -Valid credentials
+2019-06-19 13:22:35,746 -com.inetbanking.qa.Base.BaseClass -INFO -Clicking on logout link
+2019-06-19 13:22:37,732 -com.inetbanking.qa.Base.BaseClass -INFO -Quitting the browser
+2019-06-19 13:22:37,733 -com.inetbanking.qa.Base.BaseClass -INFO -Test Complete!
