@@ -6,3 +6,5 @@ This is a test file
 This is a test file
 This is a test file
 This is a test file
+
+Just wanted to add a new line to check how it is working.
